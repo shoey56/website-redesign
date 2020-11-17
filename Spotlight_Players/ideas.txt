@@ -1,0 +1,29 @@
+header
+  logo
+  home
+  news
+  calendar
+  shows
+  About
+  Donate
+  theater groups
+
+
+  Homepage
+    upcoming shows - include date price and cast list
+    sponsors on a banner
+    E-Blast - Link to spotlight emails
+    News and opportunities
+      Upcoming Auditions
+      become a members
+      positions available
+    Banner/slideshow of recent shows
+
+
+  footer
+    Programs
+      Main stage
+      Studio
+      Youth
+      Still Got It
+    Donations
